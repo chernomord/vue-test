@@ -3,7 +3,7 @@ import Router from 'vue-router'
 // import {} from './filters'
 import App from './components/App.vue'
 import TasksView from './components/TasksView.vue'
-import FilterView from './components/ItemView.vue'
+import FilterView from './components/FilterView.vue'
 import UserView from './components/UserView.vue'
 
 // install router
