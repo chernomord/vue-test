@@ -2,7 +2,7 @@
 
 Проект создан из [Vue.js HackerNews](https://github.com/vuejs/vue-hackernews) в качестве шаблона
 
-[Live demo](http://vuejs.github.io/vue-hackernews/)
+[Live demo](https://chernomord.github.io/vue-test/)
 
 Использованы [Vue.js](http://vuejs.org), 
 [vue-router](https://github.com/vuejs/vue-router), 
