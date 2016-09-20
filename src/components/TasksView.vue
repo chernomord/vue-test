@@ -5,7 +5,7 @@
         <ul>
             <li v-for="todo in todos">
                 <span>{{ todo.text }}</span>
-                <button v-on:click="removeTodo($index)">X</button>
+                <button v-on:click="removeTodo($index)">×</button>
             </li>
         </ul>
         <input v-model="newTodo" v-on:keyup.enter="addTodo">
@@ -13,8 +13,6 @@
 </template>
 
 <script>
-    //import store from '../store'
-
     export default {
 
         name: 'NewsView',

@@ -11,7 +11,6 @@ Vue.use(Router)
 
 // register filters globally
 Vue.filter('contains', contains)
-// Vue.filter('domain', domain)
 
 // routing
 var router = new Router()

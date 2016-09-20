@@ -5,8 +5,8 @@ export function contains(value, ref, type) {
             break
         case 'hint':
             if (ref && ref != '') {
-                let re = new RegExp('(' + ref + ')', "g");
-                return value.replace(re, '<span class="yellow">$1</span>');
+                let re = new RegExp('(' + ref + ')', "g")
+                return value.replace(re, '<span class="yellow">$1</span>')
             } else
                 return value
             break
