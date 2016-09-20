@@ -4,7 +4,10 @@
 
 [Live demo](http://vuejs.github.io/vue-hackernews/)
 
-Использованы [Vue.js](http://vuejs.org), [vue-router](https://github.com/vuejs/vue-router), [vue-loader](https://github.com/vuejs/vue-loader)
+Использованы [Vue.js](http://vuejs.org), 
+[vue-router](https://github.com/vuejs/vue-router), 
+[vue-loader](https://github.com/vuejs/vue-loader), 
+[vue-simple-datepicker](https://github.com/hyiso/vue-simple-datepicker)
 
 
 

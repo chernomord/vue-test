@@ -38,7 +38,7 @@
             }
         },
         methods: {
-            selectRegion: function(val) {
+            selectRegion: function() {
                 this.regionsSelected[1] = ''
                 this.regionsSelected[2] = ''
             },
